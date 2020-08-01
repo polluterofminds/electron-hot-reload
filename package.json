@@ -1,0 +1,17 @@
+{
+  "name": "electron-hot-reload",
+  "version": "0.0.1",
+  "description": "A simple example of setting up hot-reload with no dependencies",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "polluterofminds",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.1.2"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

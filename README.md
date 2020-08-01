@@ -1,4 +1,4 @@
-## Electron Hote-Reload With No External Dependencies
+## Electron Hot-Reload With No External Dependencies
 
 **Run It**  
 * `git clone https://github.com/jehunter5811/electron-hot-reload`  
